@@ -1,0 +1,20 @@
+{
+  "name": "genpark-agent-b2b-contract-negotiation-copilot-skill",
+  "version": "1.0.0",
+  "description": "Autonomous B2B contract negotiation copilot analyzing counterparty concession velocity, contractual leverage, and generating strategic counter-offers",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "b2b-negotiation",
+    "contract-copilot",
+    "concession-strategy",
+    "sales-negotiation",
+    "workplace-agent",
+    "autonomous-agents",
+    "python-standard-library",
+    "agent-skills",
+    "pricing-optimization",
+    "zero-dependency"
+  ]
+}
